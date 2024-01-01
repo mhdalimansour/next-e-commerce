@@ -1,5 +1,6 @@
-import React, { Suspense } from 'react'
+/* eslint-disable simple-import-sort/imports */
 import { Metadata } from 'next'
+import { Suspense } from 'react'
 
 import { Gutter } from '../../_components/Gutter'
 import { mergeOpenGraph } from '../../_utilities/mergeOpenGraph'
